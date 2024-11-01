@@ -1,0 +1,53 @@
+{'username': 'uflores', 'name': 'Catherine Fowler', 'sex': 'F', 'address': '630 Dylan Lock Apt. 560\nEast Robert, AS 16506', 'mail': 'shernandez@gmail.com', 'birthdate': datetime.date(1996, 5, 21)}
+{'username': 'allisongonzalez', 'name': 'Donna Scott', 'sex': 'F', 'address': 'Unit 4351 Box 9278\nDPO AA 09302', 'mail': 'jacobsonjacob@yahoo.com', 'birthdate': datetime.date(2022, 3, 16)}
+{'username': 'zmorgan', 'name': 'Jeremy Watkins', 'sex': 'M', 'address': '59541 Wang Place Apt. 775\nLake Janebury, MH 25346', 'mail': 'wrobinson@yahoo.com', 'birthdate': datetime.date(2007, 11, 27)}
+{'username': 'ivega', 'name': 'William Braun', 'sex': 'M', 'address': '7065 Rangel Ford Suite 225\nWest Johnport, AR 96625', 'mail': 'terrycynthia@hotmail.com', 'birthdate': datetime.date(1937, 4, 5)}
+{'username': 'colemankendra', 'name': 'Cory Moreno PhD', 'sex': 'M', 'address': '40340 Craig Village\nEast Joseph, VA 55380', 'mail': 'lukemarquez@hotmail.com', 'birthdate': datetime.date(1916, 3, 16)}
+{'username': 'valenciabrandon', 'name': 'Ruth Miller', 'sex': 'F', 'address': 'USS Lowe\nFPO AP 40542', 'mail': 'umorgan@hotmail.com', 'birthdate': datetime.date(1936, 1, 31)}
+{'username': 'pattersonsean', 'name': 'Patrick Wilson', 'sex': 'M', 'address': '333 Greene Skyway\nSouth Gregory, MA 08690', 'mail': 'jasminejones@hotmail.com', 'birthdate': datetime.date(2016, 6, 28)}
+{'username': 'smithnancy', 'name': 'Brianna Johnson', 'sex': 'F', 'address': '63471 King Court\nJordanland, IN 09887', 'mail': 'annajohnson@yahoo.com', 'birthdate': datetime.date(1931, 6, 12)}
+{'username': 'mfernandez', 'name': 'Molly Ramirez', 'sex': 'F', 'address': '5680 Jose Terrace Apt. 220\nPort Jason, ND 83166', 'mail': 'rebeccacooper@gmail.com', 'birthdate': datetime.date(1948, 3, 8)}
+{'username': 'tara54', 'name': 'Sabrina Norton', 'sex': 'F', 'address': 'USCGC Glenn\nFPO AE 56456', 'mail': 'ellismackenzie@gmail.com', 'birthdate': datetime.date(1988, 10, 15)}
+{'username': 'timothy68', 'name': 'Michelle Hodge', 'sex': 'F', 'address': '115 Reyes Neck\nMcleanport, IN 49347', 'mail': 'patriciawiggins@hotmail.com', 'birthdate': datetime.date(1993, 8, 17)}
+{'username': 'danielle23', 'name': 'Scott Lester', 'sex': 'M', 'address': 'PSC 0819, Box 4270\nAPO AP 58341', 'mail': 'kerrjennifer@yahoo.com', 'birthdate': datetime.date(2004, 7, 28)}
+{'username': 'eramirez', 'name': 'Douglas Morales', 'sex': 'M', 'address': '728 Melissa Parkways\nWest James, PA 30160', 'mail': 'summer71@hotmail.com', 'birthdate': datetime.date(1974, 1, 5)}
+{'username': 'adodson', 'name': 'Maria Baker', 'sex': 'F', 'address': '5375 Michael Wells\nThompsonland, TX 13428', 'mail': 'theodoreshepard@hotmail.com', 'birthdate': datetime.date(1935, 4, 26)}
+{'username': 'hayesashley', 'name': 'Gregory Villegas', 'sex': 'M', 'address': '56325 Tammy Burgs\nNormahaven, MA 19575', 'mail': 'jay54@gmail.com', 'birthdate': datetime.date(1980, 5, 2)}
+{'username': 'ghunter', 'name': 'Christopher Espinoza', 'sex': 'M', 'address': '925 Matthew Valley Apt. 226\nPort Melissa, NM 98601', 'mail': 'leejohn@yahoo.com', 'birthdate': datetime.date(2007, 12, 12)}
+{'username': 'sfoster', 'name': 'Tammy Carter', 'sex': 'F', 'address': 'Unit 1099 Box 3432\nDPO AA 40146', 'mail': 'martinezkari@gmail.com', 'birthdate': datetime.date(1927, 10, 8)}
+{'username': 'craigmichael', 'name': 'Thomas Mills', 'sex': 'M', 'address': '285 Wilkins Square\nYoungbury, RI 93349', 'mail': 'kwilson@yahoo.com', 'birthdate': datetime.date(1928, 8, 22)}
+{'username': 'carriecox', 'name': 'Dwayne Black', 'sex': 'M', 'address': '5742 Patrick Land Apt. 222\nSouth Zacharyborough, NC 56169', 'mail': 'dianeespinoza@gmail.com', 'birthdate': datetime.date(2016, 2, 7)}
+{'username': 'rburnett', 'name': 'Jessica Taylor', 'sex': 'F', 'address': 'Unit 0403 Box 3643\nDPO AE 86609', 'mail': 'brandi10@yahoo.com', 'birthdate': datetime.date(2019, 5, 17)}
+{'username': 'cassandra07', 'name': 'Jamie Smith', 'sex': 'F', 'address': '044 Rodriguez Freeway Suite 536\nMorganhaven, MD 88486', 'mail': 'watkinsgregory@hotmail.com', 'birthdate': datetime.date(1951, 3, 31)}
+{'username': 'benjamin27', 'name': 'Allison Young DVM', 'sex': 'F', 'address': '2963 Carter Square Suite 628\nPattersonberg, MO 35290', 'mail': 'daughertynicole@hotmail.com', 'birthdate': datetime.date(1919, 10, 7)}
+{'username': 'ivancarroll', 'name': 'Melissa Gill', 'sex': 'F', 'address': '288 Michael Plains\nMatthewborough, GA 70080', 'mail': 'logan97@gmail.com', 'birthdate': datetime.date(2003, 12, 28)}
+{'username': 'christopherfernandez', 'name': 'Craig Atkins', 'sex': 'M', 'address': 'USNS Santos\nFPO AA 65720', 'mail': 'barbara42@hotmail.com', 'birthdate': datetime.date(1919, 6, 5)}
+{'username': 'terrimedina', 'name': 'Mark Coleman', 'sex': 'M', 'address': '1590 Jackson Brooks\nWest Holly, GA 74249', 'mail': 'mary08@gmail.com', 'birthdate': datetime.date(1985, 3, 7)}
+{'username': 'glenn97', 'name': 'Emily Cruz', 'sex': 'F', 'address': '178 Hoffman Mountain\nDominguezmouth, VT 77326', 'mail': 'taylorelizabeth@yahoo.com', 'birthdate': datetime.date(1957, 8, 29)}
+{'username': 'johnsonrobert', 'name': 'Anthony Wade', 'sex': 'M', 'address': '6502 Henderson Haven Suite 012\nLindsayview, SD 99741', 'mail': 'flemingtammy@yahoo.com', 'birthdate': datetime.date(1969, 3, 23)}
+{'username': 'rangelkelly', 'name': 'Amber Burke', 'sex': 'F', 'address': '158 Jeffery Well Apt. 801\nEast Nicole, OH 91420', 'mail': 'bonniegutierrez@gmail.com', 'birthdate': datetime.date(1925, 12, 3)}
+{'username': 'garzakatelyn', 'name': 'Adam Massey DDS', 'sex': 'M', 'address': '703 Harris Bridge\nPatriciahaven, DC 09687', 'mail': 'rcummings@yahoo.com', 'birthdate': datetime.date(2003, 2, 5)}
+{'username': 'gomezvincent', 'name': 'Stephanie Ingram', 'sex': 'F', 'address': '56209 Felicia Walk\nWest Tiffany, AL 09137', 'mail': 'cbowen@hotmail.com', 'birthdate': datetime.date(1995, 7, 19)}
+{'username': 'mackenzie99', 'name': 'Peter Martin', 'sex': 'M', 'address': '9937 Anderson Common\nRoberttown, MS 15601', 'mail': 'david65@yahoo.com', 'birthdate': datetime.date(2022, 1, 8)}
+{'username': 'zweiss', 'name': 'Marie Powers', 'sex': 'F', 'address': 'USS Perez\nFPO AP 67962', 'mail': 'annabolton@yahoo.com', 'birthdate': datetime.date(1981, 7, 6)}
+{'username': 'erica75', 'name': 'April Martinez', 'sex': 'F', 'address': '26100 Timothy Pine\nLake Kelly, IA 97920', 'mail': 'victorcook@yahoo.com', 'birthdate': datetime.date(1966, 7, 7)}
+{'username': 'laura21', 'name': 'Jordan Flores', 'sex': 'M', 'address': '010 Edwards Brooks Apt. 417\nHernandezhaven, IL 22740', 'mail': 'ysanchez@yahoo.com', 'birthdate': datetime.date(1929, 1, 24)}
+{'username': 'mpalmer', 'name': 'Alex Mendoza', 'sex': 'M', 'address': '644 Dylan Glen\nWest Mary, NJ 69034', 'mail': 'qporter@yahoo.com', 'birthdate': datetime.date(2020, 5, 18)}
+{'username': 'paul95', 'name': 'David Clarke', 'sex': 'M', 'address': '009 Hayes Plaza\nNorth Scottstad, KY 28419', 'mail': 'johnsonchristian@gmail.com', 'birthdate': datetime.date(1973, 4, 5)}
+{'username': 'jonathan46', 'name': 'Sandy Watson', 'sex': 'F', 'address': '5076 Sharon Cliffs\nJohnsonborough, ME 50587', 'mail': 'flee@yahoo.com', 'birthdate': datetime.date(2020, 10, 7)}
+{'username': 'moniquebradshaw', 'name': 'Anna Juarez', 'sex': 'F', 'address': '77589 Diaz Field Apt. 516\nHarveyborough, KS 23285', 'mail': 'leeamy@yahoo.com', 'birthdate': datetime.date(2014, 12, 28)}
+{'username': 'carolfarley', 'name': 'Stephanie Jones', 'sex': 'F', 'address': '5293 Oneill Ridge Apt. 967\nWest Susanfurt, WY 78606', 'mail': 'owenschristopher@gmail.com', 'birthdate': datetime.date(1996, 4, 6)}
+{'username': 'millerwilliam', 'name': 'Dr. Lori Aguirre', 'sex': 'F', 'address': '63077 Mathis Light\nNorth Kyleview, MI 44725', 'mail': 'wesleyspencer@hotmail.com', 'birthdate': datetime.date(1998, 11, 4)}
+{'username': 'ian14', 'name': 'April Hawkins', 'sex': 'F', 'address': '275 Carla Stream Suite 555\nNew Royton, PR 34985', 'mail': 'stephanie22@hotmail.com', 'birthdate': datetime.date(1995, 9, 25)}
+{'username': 'ecarlson', 'name': 'John Gonzalez', 'sex': 'M', 'address': '63712 Becker Mountain\nWardburgh, ME 46666', 'mail': 'brownscott@gmail.com', 'birthdate': datetime.date(2007, 1, 23)}
+{'username': 'gary88', 'name': 'James Hill', 'sex': 'M', 'address': '769 Thomas Vista Suite 066\nSouth Jamie, FM 89574', 'mail': 'powelljacqueline@yahoo.com', 'birthdate': datetime.date(2005, 2, 21)}
+{'username': 'ywilliams', 'name': 'Mackenzie Olson', 'sex': 'F', 'address': '70397 Mcdowell Underpass Suite 023\nJuliechester, KS 65997', 'mail': 'hernandezlaurie@yahoo.com', 'birthdate': datetime.date(1942, 9, 25)}
+{'username': 'jose51', 'name': 'Cheyenne Clark', 'sex': 'F', 'address': 'USS Russell\nFPO AA 09784', 'mail': 'woodsashley@hotmail.com', 'birthdate': datetime.date(1970, 6, 25)}
+{'username': 'cwest', 'name': 'Patrick Santos', 'sex': 'M', 'address': 'PSC 1892, Box 6075\nAPO AE 15172', 'mail': 'vcastro@yahoo.com', 'birthdate': datetime.date(1918, 5, 7)}
+{'username': 'hcastillo', 'name': 'Larry Edwards', 'sex': 'M', 'address': '3569 Elizabeth Dam\nPort Jeremyberg, AS 78069', 'mail': 'matthew06@yahoo.com', 'birthdate': datetime.date(2005, 10, 22)}
+{'username': 'wmiller', 'name': 'Rebecca Bryant', 'sex': 'F', 'address': '78758 Lopez Squares Apt. 459\nJacksonmouth, OK 60309', 'mail': 'gregory66@yahoo.com', 'birthdate': datetime.date(1925, 5, 26)}
+{'username': 'alexanderkathleen', 'name': 'Margaret Powell', 'sex': 'F', 'address': '09789 Justin Plaza\nGoldenburgh, MO 10242', 'mail': 'rlewis@yahoo.com', 'birthdate': datetime.date(1913, 12, 17)}
+{'username': 'amanda76', 'name': 'Anne Delgado', 'sex': 'F', 'address': '281 Griffith Green Apt. 185\nSouth Jamieport, CO 53300', 'mail': 'hhall@gmail.com', 'birthdate': datetime.date(1933, 5, 22)}
+{'username': 'robertthomas', 'name': 'Jonathan Adams', 'sex': 'M', 'address': '66111 Yates Lake Apt. 512\nEast Melissa, IN 50740', 'mail': 'carlbauer@yahoo.com', 'birthdate': datetime.date(1937, 1, 14)}
+{'username': 'adrianperry', 'name': 'Chelsea Whitehead', 'sex': 'F', 'address': '208 Werner Hills\nPort Justin, DE 07168', 'mail': 'tiffanyriley@hotmail.com', 'birthdate': datetime.date(1974, 8, 13)}
+{'username': 'nicole41', 'name': 'Laura Gregory', 'sex': 'F', 'address': 'USS Campbell\nFPO AP 13350', 'mail': 'tonyjones@hotmail.com', 'birthdate': datetime.date(2006, 2, 19)}
